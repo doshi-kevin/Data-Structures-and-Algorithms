@@ -10,6 +10,6 @@ class Solution {
                 outer.add(internal);
             }
         }
-        return outer;
+        return outer; //re
     }  
 }
